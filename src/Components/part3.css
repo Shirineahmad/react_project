@@ -1,0 +1,40 @@
+.col-md-2{
+    padding-top: 30px;
+}
+h3{
+    font-weight:bold;
+    font-size: xx-large;
+    color:red
+}
+h5{
+    color: red ;
+    font-size: x-large;
+    font-weight:bold;
+}
+.bt{
+    width: 150px;
+    border-radius: 5px;
+}
+.bt{
+    background-color:  #FFBC0D;
+    color: black;
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.bt:hover{
+    background-color:black;
+    color: #FFBC0D;
+
+}
+.f{
+    border-top: none!important;
+    border-right: none!important;
+    border-left: none!important;
+}
+label:focus{
+    background-color: #FFBC0D;
+    color: #FFBC0D;
+
+}

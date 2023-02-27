@@ -1,0 +1,48 @@
+.back{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+   
+}
+.b{
+ width: 70%;
+ height: 300px;
+   }
+   .f{
+       padding-top: 70px;
+   }
+   .h-color{
+       color: white!important;
+   }
+ 
+
+   @media (max-width:627px){
+    .rich-textbox-wrapper{
+        width: 40%;font-size:10px;
+        height: auto;
+        padding: 0%!important;
+        margin: 0%!important;
+    };
+     .res{
+         font-size:10px;
+
+ };
+ .resp{
+     width: 50px;
+     font-size: 10px;
+     padding: 0%!important;
+     margin: 0%!important;
+     
+ };
+ .home--img{
+     height: auto!important;
+ };
+.carousel-item{
+  height: auto;
+}
+
+ }
+ 
+

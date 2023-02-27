@@ -1,0 +1,48 @@
+.img7{
+    object-fit: cover;
+    
+    display: block;
+    width: 200px;
+    height: 200px;
+  }
+  .secondCard{
+    background-color: rgb(226 242 242);
+    border-radius: 20px;
+  
+    text-align: center;
+  }
+  .item-title{
+    font-size: xx-large;
+    padding: 13px;
+    color: black!important;
+  }
+ .mt-2{
+     margin-bottom: 3px;
+ }
+ .check{
+  padding-top:85px;
+  padding-bottom: 45px;
+ }
+ 
+ .item-btn{
+  background-color: #FFBC0D!important;
+    color: black;
+    border: none;
+    font-weight: bold;
+    padding: 4px;
+    margin: 48px !important;
+    border-radius: 10px!important;
+ }
+ .item-btn:hover{
+  background-color: red!important;
+
+  color:white;
+
+ }
+ .item-img{
+  text-align: -webkit-center;
+  padding: 10px;
+ }
+ .bt{
+   margin-bottom: 100px;
+ }

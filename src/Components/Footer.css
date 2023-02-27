@@ -1,0 +1,55 @@
+.icon-twitter-sign{
+    margin-right: 12px;
+    color: white!important;
+    
+}
+
+.icon-instagram{
+    margin-left: 12px;
+    color:white!important;  
+    
+}
+.icon-facebook-sign{
+    margin-left: 12px;
+    margin-right: 12px;
+    
+    color: white!important;
+   
+}
+
+.img9
+{
+    width: 90px;
+    height: 90px;
+}
+
+.blue {
+    background-color: white !important;}
+
+ .col-md-4{
+        text-align: center;
+    }
+.doc{
+    color:white;
+    font-weight: bold;
+}
+ .doc:hover{
+        color:yellow
+    }
+
+ .change{
+        color:white;
+    }
+    .footer-copyright{
+        color:white!important;
+        background-color:rgb(203, 4, 4)!important;
+    }
+    #mac{
+       width: 30px;
+    }
+    .co{
+        background-color: red;
+    }
+    .te{margin-right: 5px;
+    font-weight: 400;}
+    

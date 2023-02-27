@@ -1,0 +1,48 @@
+body {
+margin: 0;
+padding: 0;
+width: 100%;
+height: 100%;
+width: -webkit-fill-available;
+}
+.APP{
+  margin: 0;
+padding: 0;
+width: 100%;
+height: 100%;
+
+}
+html{
+  margin: 0;
+padding: 0;
+width: 100%;
+height: 100%;
+
+}
+::-webkit-scrollbar {
+  width: 18px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px  #ffbc0d; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ffbc0d; 
+}
+@media screenand and (max-width: 808px)
+{
+  .screen{
+   width: 50px;
+
+  }
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "itemName": "Big Mac",
+    "price": 7,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Big-Mac.png",
+    "category": "Beef"
+  },
+ {
+    "itemName": " Grand Chicken Special",
+    "price": 6,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Grand-Chicken-Special.png",
+    "category": "Chicken"
+  },
+  {
+    "itemName": "Spicy McChicken",
+    "price": 6,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Spicy-McChicken.png",
+    "category": "Chicken"
+  },
+
+
+  {
+    "itemName": "Chicken Burger",
+    "price": 6,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/McChicken.png",
+    "category": "Chicken"
+  },
+  {
+    "itemName": "Chicken Mac",
+    "price": 6,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Chicken-Mac.png",
+    "category": "Chicken"
+  },
+  {
+    "itemName": "Grand Chicken-Deluxe",
+    "price": 6,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Grand-Chicken-Deluxe.png",
+    "category": "Chicken"
+  },
+  {
+    "itemName": "McNuggets 9 pc",
+    "price": 9,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/9-pcs-McNuggets.png",
+    "category": "Chicken"
+  },
+  {
+    "itemName": "McNuggets 6 pc",
+    "price": 6,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/6-pcs-McNuggets.png",
+    "category": "Chicken"
+  },
+  {
+    "itemName": "McNuggets 4 pc",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/4-pcs-McNuggets.png",
+    "category": "Chicken"
+  },
+ {
+    "itemName": "Regular Fries",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Fries-Regular.png",
+    "category": "Sides"
+  }
+  ,
+  {
+    "itemName": " Small Fries",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Fries-Small.png",
+    "category": "Sides"
+  }
+  ,
+  {
+    "itemName": "Large Fries",
+    "price": 4,
+    "image": "Https://mcdonalds.com.lb/storage/menu-products/Fries-Large.png",
+    "category": "Sides"
+  }
+  ,
+  {
+    "itemName": "Big Tasty",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Big-Tasty.png",
+    "category": "Beef"
+  }, {
+    "itemName": "Cheese Burger",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Cheese-Burger.png",
+    "category": "Beef"
+  }, {
+    "itemName": "Cheese Burger",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Cheese-Burger.png",
+    "category": "Beef"
+  }, {
+    "itemName": "Quarter Pounder with Cheese",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/QPC.png",
+    "category": "Beef"
+  }
+  , {
+    "itemName": "BeefBurger",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/BeefBurger.png",
+    "category": "Beef"
+  }
+
+  , {
+    "itemName": "Double CheeseBurger",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/Double-Cheese-Burger.png",
+    "category": "Beef"
+  }
+
+  , {
+    "itemName": "BeefBurger Deluxe",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/BeefBurger-Deluxe.png",
+    "category": "Beef"
+  }
+
+  , {
+    "itemName": "McRoyal",
+    "price": 4,
+    "image": "https://mcdonalds.com.lb/storage/menu-products/McRoyal.png",
+    "category": "Beef"
+  },
+ 
+   
+  {
+     "itemName": "Sweet & Sour Sauce",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/Sweet-and-Sour.png",
+     "category": "Sides"
+   }
+   ,
+  {
+     "itemName": "Light Vinigraitte Sauce",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/Light-Vinigraitte-Sauce.png",
+     "category": "Sides"
+   }
+   ,
+ 
+  {
+     "itemName": "Mustard Hot",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/Mustard.png",
+     "category": "Sides"
+   }
+   ,
+  {
+     "itemName": " BBQ Sauce",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/BBQ.png",
+     "category": "Sides"
+   }
+   ,
+  {
+     "itemName": "Ceasar Dressing",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/Ceasar-Dressing.png",
+     "category": "Sides"
+   }
+   ,
+  {
+     "itemName": "Garden Salad",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/December2020/xenZ8x7L7rjRTTbWcxnu.jpg",
+     "category": "Sides"
+   }
+   ,
+  {
+     "itemName": "Chicken Ceaser Salad",
+     "price": 4,
+     "image": "https://mcdonalds.com.lb/storage/menu-products/December2020/EgAsLJUOb3azOd5lNAD7.jpg",
+     "category": "Sides"
+   }
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
